@@ -1,0 +1,19 @@
+{
+  "name": "secretsanta",
+  "version": "1.0.0",
+  "description": "secret santa in node!",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/index.js"
+  },
+  "author": "Harry Brown",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}

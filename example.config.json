@@ -1,0 +1,28 @@
+{
+  "gmail": {
+    "user": "example@gmail.com",
+    "pass": "password"
+  },
+  "banned": {
+    "persona": "personc",
+    "personb": "persond"
+  },
+  "people": [
+    {
+      "name": "persona",
+      "email": "persona@example.com"
+    },
+    {
+      "name": "personb",
+      "email": "personb@example.com"
+    },
+    {
+      "name": "personc",
+      "email": "personc@example.com"
+    },
+    {
+      "name": "persond",
+      "email": "persond@example.com"
+    }
+  ]
+}
