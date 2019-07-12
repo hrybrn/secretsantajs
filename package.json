@@ -9,11 +9,11 @@
   "author": "Harry Brown",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^4.6.8"
+    "nodemailer": "^4.7.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/node": "^7.0.0",
-    "@babel/preset-env": "^7.1.0"
+    "@babel/core": "^7.5.4",
+    "@babel/node": "^7.5.0",
+    "@babel/preset-env": "^7.5.4"
   }
 }
