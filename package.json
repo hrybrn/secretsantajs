@@ -9,7 +9,7 @@
   "author": "Harry Brown",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^4.7.0"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
